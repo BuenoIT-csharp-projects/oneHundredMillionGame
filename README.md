@@ -7,7 +7,7 @@ One hundred million is a game in which users are challenged to answer seven ques
 ### 💾 Program versions
 
 2022/09/25 created by Guilherme Bueno <br>
-2022/09/26 bug fixes by Guilherme Bueno
+2022/09/26 bug fixes by Guilherme Bueno <br>
 2022/09/27 final review by Guilherme Bueno
 
 ### 🔨 Built on
