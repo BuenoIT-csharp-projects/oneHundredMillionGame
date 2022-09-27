@@ -1,0 +1,76 @@
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.exe
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.deps.json
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.runtimeconfig.json
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.pdb
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.AssemblyReference.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.GamePlay.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.Properties.Resources.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.StartScreen.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.GenerateResource.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.AssemblyInfoInputs.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.AssemblyInfo.cs
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.CoreCompileInputs.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\refint\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.pdb
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.genruntimeconfig.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\Assignment_1\Assignment_1\obj\Debug\net6.0-windows\ref\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.exe
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.deps.json
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.runtimeconfig.json
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\bin\Debug\net6.0-windows\OneHundredMillionGame.pdb
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.AssemblyReference.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.GamePlay.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.Properties.Resources.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.StartScreen.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.GenerateResource.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.AssemblyInfoInputs.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.AssemblyInfo.cs
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.CoreCompileInputs.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\refint\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.pdb
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\OneHundredMillionGame.genruntimeconfig.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\Assignment_1\obj\Debug\net6.0-windows\ref\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.exe
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.deps.json
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.runtimeconfig.json
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.pdb
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.AssemblyReference.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.GamePlay.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.Properties.Resources.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.StartScreen.resources
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.GenerateResource.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.AssemblyInfoInputs.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.AssemblyInfo.cs
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.CoreCompileInputs.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\refint\OneHundredMillionGame.dll
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.pdb
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.genruntimeconfig.cache
+C:\Users\bueno\Google Drive\Studies\6. Prog\0. Comp Prog\Level 3\OneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\ref\OneHundredMillionGame.dll
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.exe
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.deps.json
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.runtimeconfig.json
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.dll
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\bin\Debug\net6.0-windows\OneHundredMillionGame.pdb
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.AssemblyReference.cache
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.GamePlay.resources
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.Properties.Resources.resources
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.StartScreen.resources
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.GenerateResource.cache
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.AssemblyInfoInputs.cache
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.AssemblyInfo.cs
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.csproj.CoreCompileInputs.cache
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.dll
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\refint\OneHundredMillionGame.dll
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.pdb
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\OneHundredMillionGame.genruntimeconfig.cache
+C:\Users\bueno\workspace\oneHundredMillionGame\oneHundredMillionGame\OneHundredMillionGame\obj\Debug\net6.0-windows\ref\OneHundredMillionGame.dll
